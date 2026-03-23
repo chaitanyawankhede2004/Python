@@ -1,5 +1,4 @@
-'''Write a program to check temprature entered by student 
-using else-if lader for 5 times
+'''Write a program to check temprature entered by student using else if ladder 
 '''
 for i in range(5):
 	temp = float(input("Enter Temperature in Celsius: "))
