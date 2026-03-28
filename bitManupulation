@@ -1,0 +1,5 @@
+# Problem: Demonstrate how x & (x - 1) removes the lowest set bit
+
+x = 12 
+res = x & (x - 1)
+print(res)
